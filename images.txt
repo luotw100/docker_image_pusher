@@ -1,1 +1,4 @@
-dpage/pgadmin4:9.14.0
+snowdreamtech/frps:0.69.0
+snowdreamtech/frpc:0.69.0
+caddy:2.11.3-builder-alpine
+caddy:2.11.3-alpine
